@@ -1,2 +1,10 @@
-# software-backend-menu
-软件后台菜单功能
+
+## 安装
+
+```bash
+composer require software-backend-menu
+```
+
+
+
+
