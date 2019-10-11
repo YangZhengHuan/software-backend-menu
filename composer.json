@@ -1,5 +1,5 @@
 {
-    "name": "software-backend-menu/menu",
+    "name": "software-backend/menu",
     "description": "menu for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "menu"],
