@@ -1,8 +1,8 @@
 {
-    "name": "SoftwareBackendMenu",
-    "description": "software-backend-menu for laravel-admin",
+    "name": "software-backend-menu/menu",
+    "description": "menu for laravel-admin",
     "type": "library",
-    "keywords": ["laravel-admin", "extension", "software-backend"],
+    "keywords": ["laravel-admin", "extension", "menu"],
     "homepage": "https://github.com/YangZhengHuan/software-backend-menu",
     "license": "MIT",
     "authors": [
