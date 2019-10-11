@@ -6,7 +6,7 @@
 ```
 
 ```bash
-composer require software-backend-menu
+composer require software-backend/menu
 ```
 
 
