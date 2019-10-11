@@ -34,13 +34,13 @@ class MenuServiceProvider extends ServiceProvider
             file_put_contents($path, $replaceMenu);
         }*/
 
-/*      $path = view('admin::partials.sidebar')->getPath();//修改sidebar文件中指定的menu文件
+       $path = view('admin::partials.sidebar')->getPath();//修改sidebar文件中指定的menu文件
         $sidebar = file_get_contents($path);
         if (strpos($sidebar, 'software-backend-menu::partials.menu') === false) {
             $replaceSidebar = str_replace("admin::partials.menu","software-backend-menu::partials.menu",$sidebar);
             @mkdir($path, 0777, true);
             file_put_contents($path, $replaceSidebar);
-        }*/
+        }
 
     }
 }
