@@ -1,6 +1,6 @@
 <?php
 
-namespace SoftwareBackend\Menu\Auth\Database;
+namespace SoftwareBackendMenu\Menu\Auth\Database;
 
 use Encore\Admin\Admin;
 use Encore\Admin\Auth\Database\HasPermissions;

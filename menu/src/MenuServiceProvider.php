@@ -1,6 +1,6 @@
 <?php
 
-namespace SoftwareBackend\Menu;
+namespace SoftwareBackendMenu\Menu;
 
 use Illuminate\Support\ServiceProvider;
 
